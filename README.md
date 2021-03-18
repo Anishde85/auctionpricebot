@@ -1,5 +1,5 @@
 # Auctionpricebot
-A discord bot which predicts the price of a batsman by the number of Runs scored by him , his batting average and his Strike Rate in the Indian Premier League(IPL). The model is trained using the data of the top 100 IPL Indian Batsman.
+A discord bot which predicts the price of a batsman by the number of Runs scored by him , his batting average and his Strike Rate in the Indian Premier League(IPL). The model is trained using the data of the top 100 IPL Batsmen.
 ## Instructions
 Create a Discord bot and get it's token. Follow the instructions [here](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)!
 
